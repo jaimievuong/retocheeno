@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quapheerig.rdiff-backup.net/sitemap.xml
